@@ -5,5 +5,5 @@ MATLAB implementation and accuracy analysis of following algorithms to classify 
 1. Bayesian Classifier
 2. Ho-Kashyap Algorithm
 3. K-Nearest Neighbour
-4. SVM with RBF and gaussian kernel
+4. SVM with RBF and linear kernel
 5. Crisp c-means clustering
