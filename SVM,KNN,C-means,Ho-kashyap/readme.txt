@@ -1,6 +1,3 @@
-The Pledge: On my honor I have neither given nor received aid on this
-exam.
-
 Contents of the archieve:
 
 1. results_takehome2.pdf: This file contains the documentation and results of parts 1 to 5. 
