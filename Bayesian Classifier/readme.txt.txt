@@ -1,5 +1,3 @@
-Pledge: On my honor I have neither given nor received aid on this exam.
-
 Contents of this archieve:
 
 1. takehome1.pdf: This report contains the entire documention and results of classification. 
